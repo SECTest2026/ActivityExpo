@@ -18,8 +18,7 @@ row cap, only pagination — and loops until every record for the requested peri
 
 | File | Purpose |
 |---|---|
-| `Get & Export-ActivityExplorerFull.ps1` | The export script. |
-| `Activity Explorer Export - User Guide.docx` | Full user guide: architecture, every parameter, every filter value, troubleshooting, official sources. |
+| `Export-ActivityExplorerFull.ps1` | The export script. |
 
 ## Requirements
 
