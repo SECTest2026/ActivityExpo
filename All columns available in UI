@@ -1,0 +1,82 @@
+|  # | Column name                          |
+| -: | ------------------------------------ |
+|  1 | Activity                             |
+|  2 | File                                 |
+|  3 | Location                             |
+|  4 | Enforcement plane                    |
+|  5 | User                                 |
+|  6 | Happened                             |
+|  7 | Sensitivity label                    |
+|  8 | Old sensitivity label                |
+|  9 | Sensitivity label policy             |
+| 10 | Retention label                      |
+| 11 | Old retention label                  |
+| 12 | Sensitive info type                  |
+| 13 | Trainable classifier                 |
+| 14 | Sensitive info type count            |
+| 15 | Sensitive info type - metadata       |
+| 16 | Policy                               |
+| 17 | Rule                                 |
+| 18 | Policy mode                          |
+| 19 | Rule actions                         |
+| 20 | Email subject                        |
+| 21 | Email sender                         |
+| 22 | Email recipient                      |
+| 23 | File extension                       |
+| 24 | Client IP                            |
+| 25 | File size                            |
+| 26 | Source location type                 |
+| 27 | Destination location type            |
+| 28 | Originating domain                   |
+| 29 | How applied                          |
+| 30 | How applied detail                   |
+| 31 | Label event type                     |
+| 32 | Content type                         |
+| 33 | Sha1                                 |
+| 34 | Sha256                               |
+| 35 | Platform                             |
+| 36 | Application                          |
+| 37 | Device name                          |
+| 38 | RMS encrypted                        |
+| 39 | Enforcement mode                     |
+| 40 | Previous file name                   |
+| 41 | Previous file path                   |
+| 42 | Target printer name                  |
+| 43 | Target domain                        |
+| 44 | Target file path                     |
+| 45 | Removable media device manufacturer  |
+| 46 | Removable media device model         |
+| 47 | Removable media device serial number |
+| 48 | Justification                        |
+| 49 | Power BI Item Type                   |
+| 50 | Group ID                             |
+| 51 | Group name                           |
+| 52 | Record identity                      |
+| 53 | JIT triggered                        |
+| 54 | False Positive                       |
+| 55 | Reason                               |
+| 56 | Printer Group ID                     |
+| 57 | Printer Group Name                   |
+| 58 | Printer Alias                        |
+| 59 | Removable USB device ID              |
+| 60 | Removable USB device group name      |
+| 61 | Removable USB device display name    |
+| 62 | Network Share Group ID               |
+| 63 | Network share group name             |
+| 64 | Site group ID                        |
+| 65 | Site group name                      |
+| 66 | Site URL                             |
+| 67 | VPN server address                   |
+| 68 | VPN network address                  |
+| 69 | Is corporate network                 |
+| 70 | Activity type                        |
+| 71 | Site template                        |
+| 72 | Data state                           |
+| 73 | Protection event type                |
+| 74 | Is protected                         |
+| 75 | Is protected before                  |
+| 76 | Protection owner                     |
+| 77 | Protection owner before              |
+| 78 | Product version                      |
+| 79 | Protection type                      |
+| 80 | Template Id                          |
